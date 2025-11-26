@@ -2,7 +2,7 @@
 
 This repository contains sequence data, alignments, and phylogenetic analyses for the GST, CES, and CYP gene families in primates.
 
-## Repository Structure
+### Repository Structure
 
 Original_Query_Datasets/
     CES_Original_Query.fasta
